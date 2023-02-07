@@ -1,6 +1,6 @@
  **Skills | 技能**
 
-![](https://img.shields.io/badge/-C#-239120?style=flat-square&logo=C Sharp&logoColor=fff)
+![](https://img.shields.io/badge/-C#-239120?style=flat-square&logo=CSharp&logoColor=fff)
 ![](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
