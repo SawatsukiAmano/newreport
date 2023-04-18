@@ -12,3 +12,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newreport&layout=compact&langs_count=8&exclude_repo=newreport.github.io,home,gridea_blog,newreport)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newreport&show_icons=true&theme=radical)
