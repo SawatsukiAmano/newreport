@@ -13,6 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newreport&layout=compact&langs_count=8&exclude_repo=newreport.github.io,home,gridea_blog,newreport)](https://github.com/anuraghazra/github-readme-stats)
 
-**Totals | 合计**
+**Statistics | 統計**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newreport&show_icons=true&theme=radical)
